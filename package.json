@@ -1,0 +1,20 @@
+{
+  "name": "csgo-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriel Kleemann Duarte",
+  "license": "ISC",
+  "dependencies": {
+    "csgo-gsi-model": "^0.5.2",
+    "get-json": "^1.0.1",
+    "get-package-json": "^1.0.0",
+    "package-json": "^6.3.0",
+    "serialport": "^7.1.4",
+    "simple-get-json": "^4.1.0"
+  }
+}
